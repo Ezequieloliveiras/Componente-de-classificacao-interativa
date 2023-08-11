@@ -132,17 +132,17 @@ p {
 
 @media (max-width: 375px) {
     .content {
-        width: 290px;
-        padding: 25px;
+        width: 300px;
+        padding: 20px 20px 20px 20px;
     }
 
     p {
-        width: 295px;
+        width: 300px;
         text-align: left;
     }
 
     .second_paragraph {
-        width: 290px;
+        width: 300px;
     }
 
     .select {
